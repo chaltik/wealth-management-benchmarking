@@ -26,5 +26,5 @@ Supporting material for the talk at USF 2023 DSCO conference on March 12-14, 202
 3. Additional flexibility can be introduced by allowing goals a) to be reduced on the fly within certain limits if needed - as done in other works b) be deferred within certain window. Both are commonly used tactical ools at many a wealth advisor's disposal, and incorporating them into the strategy seems prudent.   
           
 ## Notable other research on the subject ##
-[Sanjiv Das](https://srdas.github.io/) is renowned authority on the subject of dynamic optimization applications in wealth management - there are several very insightful papers (including one that served as a basis for his talk at the above conference) on his website on this subject.
+[Sanjiv Das](https://srdas.github.io/) is a renowned authority on the subject of dynamic optimization applications in wealth management - there are several very insightful papers (including one that served as a basis for his talk at the above conference) on his website on this subject.
 
