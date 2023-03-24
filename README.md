@@ -1,7 +1,7 @@
 # wealth-management-benchmarking
 
 Supporting material for the talk at USF 2023 DSCO conference on March 12-14, 2023.
-[Slides](https://docs.google.com/presentation/d/12Crkv4Z4dEtlaUO5aMwsxx3SPhJS0S4OpQ0EU_Hpc0Y/edit?usp=share_link)
+([Slides](https://docs.google.com/presentation/d/12Crkv4Z4dEtlaUO5aMwsxx3SPhJS0S4OpQ0EU_Hpc0Y/edit?usp=share_link))
 
 ## Running the code ##
 1. create virtual environment with `requirements.txt` 
