@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+fredapi
+yfinance
+arch
+ipykernel
+jinja2
