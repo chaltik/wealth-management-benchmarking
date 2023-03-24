@@ -8,18 +8,7 @@ Created on Fri Sep 28 00:37:47 2018
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm as norm_stats
-from scipy.optimize import minimize,bisect,root_scalar,shgo,basinhopping
-from scipy.integrate import quad
-import sympy 
-
-NTX_DIST_START=59.5
-RMD_AGE_START=70.5
-RMD_AGE_END=115.0
-MAX_NTX_CONT=6500.
-MAX_NTX_CONT_OLDER=7000.
-INFL_RATE=0.03
-CAP_GAIN_TAX=0.2
-
+from scipy.optimize import minimize,bisect,root_scalar
 
 def max_drawdown_wealth(wealth_paths):
     """Calculate the maximum drawdown from a collection of wealth paths."""
