@@ -25,5 +25,6 @@ Supporting material for the talk at USF 2023 DSCO conference on March 12-14, 202
 2. At the end of the talk (and notebooks) we skectched a proposal for a more complete execution strategy (based on estimating at each decision time the cost of all possible _combinations_ of the remaining goals as opposed to all the goals). This would require introducting the "memory" in the calculation and keeping track of which goals have been commited to so far. 
 3. Additional flexibility can be introduced by allowing goals a) to be reduced on the fly within certain limits if needed - as done in other works b) be deferred within certain window. Both are commonly used tactical ools at many a wealth advisor's disposal, and incorporating them into the strategy seems prudent.   
           
-    
+## Notable other research on the subject ##
+[Sanjiv Das](https://srdas.github.io/) is renowned authority on the subject of dynamic optimization applications in wealth management - there are several very insightful papers (including one that served as a basis for his talk at the above conference) on his website on this subject.
 
